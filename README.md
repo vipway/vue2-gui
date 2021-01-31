@@ -55,4 +55,4 @@ See `monaco-editor`  [monaco-editor github](https://github.com/Microsoft/monaco-
 
 
 ### vscode 卡顿优化
-[https://www.cnblogs.com/sherryStudy/p/vscodeCaton.html]
+[vscode 卡顿优化](https://www.cnblogs.com/sherryStudy/p/vscodeCaton.html)
