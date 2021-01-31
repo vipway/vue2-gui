@@ -1,0 +1,13 @@
+@import '@/styles/mixin.scss';
+
+.json-drawer {
+  .el-drawer__header {
+    display: none;
+  }
+
+  @include action-bar;
+
+  .json-editor {
+    height: calc(100vh - 33px);
+  }
+}
