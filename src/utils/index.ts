@@ -38,7 +38,7 @@ export function isNumberStr (str: string) {
   return /^[+-]?(0|([1-9]\d*))(\.\d+)?$/g.test(str)
 }
 
-export const exportDefault = 'export default '
+export const exportDefault = 'export default'
 
 export const beautifierConf = {
   html: {
